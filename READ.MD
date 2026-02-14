@@ -36,7 +36,7 @@ Projeto criado com foco em boas práticas, separação de responsabilidades, DTO
 ## ⚙️ Configuração do Projeto
 
 ### 1️⃣ Clone o repositório
-git clone https://github.com/SEU_USUARIO/SEU_REPO.git
+git clone https://github.com/dayapaline/Climate_API.git
 cd SEU_REPO
 ### 2️⃣ Instale as dependências
 npm install
